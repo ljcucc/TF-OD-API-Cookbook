@@ -5,3 +5,5 @@
 ## What is this?
 
 This is a cookbook that help people to create a object detection model.
+
+> Currently support zh_TW cookbook.
